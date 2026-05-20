@@ -1,53 +1,75 @@
 <h1 align="center">Hey 👋, I'm Astik Yadav</h1>
 
 <h3 align="center">
-🚀 Java Full Stack Developer | Spring Boot | AWS | Generative AI
+💻 Software Developer | Java Backend Engineer | Spring Boot | Microservices | Gen AI Enthusiast
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+Microservices+Developer;AWS+%7C+Docker+%7C+Kubernetes;React+Frontend+Learner;Building+Production+Grade+Applications;Future+Generative+AI+Engineer"
-      alt="Typing SVG"
-    />
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Software+Developer+%40+Ethereal+Informatics;Java+Backend+Developer;Spring+Boot+%7C+Microservices+Engineer;Building+Production+Grade+Applications;AWS+%7C+Docker+%7C+Kubernetes;Gen+AI+Engineer+in+Progress" />
+
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="350"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
 
-# 💫 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Astik%20Yadav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-- 🔭 Currently working on **Spring Boot Projects**
-- 🌱 Learning **AWS, Kubernetes, DevOps & Generative AI**
-- 💻 Passionate about **Backend Development**
-- ⚡ Love solving **DSA & System Design**
-- 🤖 Exploring **LLMs, LangChain & AI Agents**
-- 🎯 Goal: Become a **Production Grade Software Engineer**
-
-<br><br>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 🚀 About Me
 
-<p align="left">
+```yaml
+Name: Astik Yadav
 
-<a href="https://linkedin.com/in/astikyadav">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+Current Company:
+  - Ethereal Informatics
 
-<a href="mailto:astikyadav4@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+Previous Company:
+  - Landis+Gyr
 
-<a href="https://github.com/Astik2004">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+Role:
+  - Software Developer
+  - Java Backend Engineer
 
-</p>
+Domain:
+  - Banking Applications
+  - Smart Meter Systems
+  - Enterprise Backend Development
+
+Passionate About:
+  - Backend Engineering
+  - Distributed Systems
+  - Cloud Native Applications
+  - Generative AI
+```
+
+---
+
+# 💼 Professional Experience
+
+### 💻 Ethereal Informatics
+
+- Working on enterprise-level banking applications
+- Developing scalable backend services using Java & Spring Boot
+- Building Loan Origination System (LOS) modules
+- Working on Loan Approval Flow systems
+- Developing Reporting & Business Modules
+- Building Microservices & REST APIs
+- Writing production-grade backend code
+
+---
+
+### ⚡ Landis+Gyr
+
+- Worked on Smart Meter Head-End Systems
+- Developed backend services using Java
+- Built REST APIs for enterprise applications
+- Worked on feature development & system optimization
+- Contributed to scalable Java-based systems
 
 ---
 
@@ -55,7 +77,41 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,react,js,html,css,bootstrap,git,github,docker,kubernetes,aws,linux,vscode,postman&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,react,js,html,css,git,github,docker,aws,kubernetes,linux,postman,vscode&perline=8" />
+
+</p>
+
+---
+
+# ☁️ Backend & Cloud
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk" />
+<img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot" />
+<img src="https://img.shields.io/badge/Microservices-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes" />
+
+</p>
+
+---
+
+# 🤖 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Generative_AI-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG_Applications-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes" />
+<img src="https://img.shields.io/badge/CI/CD-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Microservices-111827?style=for-the-badge" />
 
 </p>
 
@@ -63,48 +119,73 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 🚀 Featured Projects
 
-## 🏦 Online Banking System
-✔ Spring Boot  
-✔ JWT Authentication  
-✔ MySQL  
-✔ REST APIs  
-✔ Swagger Documentation  
+<table>
+<tr>
+<td width="50%">
+
+## 🤖 RAG Based Chat Application
+
+- Spring Boot + Python
+- LangChain + LangGraph
+- Vector Database
+- AI Powered Responses
+- Retrieval Augmented Generation
+- Production Grade Architecture
+
+</td>
+
+<td width="50%">
+
+## 🍔 Foodies E-Commerce Platform
+
+- Spring Boot Backend
+- React Frontend
+- JWT Authentication
+- REST APIs
+- Cart & Order Management
+- Production Ready UI
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🏦 Loan Origination System (LOS)
+
+- Loan Approval Workflow
+- Enterprise Banking Modules
+- Reporting Services
+- Backend Business Logic
+- Microservices Architecture
+
+</td>
+
+<td width="50%">
+
+## ⚡ Smart Meter Head-End APIs
+
+- Java REST APIs
+- Enterprise Integration
+- Scalable Backend Systems
+- Smart Meter Communication
+- Performance Optimization
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛒 E-Commerce Backend API
-✔ Microservices Architecture  
-✔ Spring Security  
-✔ Dockerized Deployment  
-✔ Payment Integration  
-
----
-
-## 🤖 Smart Resume Ranker (AI Project)
-✔ Spring Boot + Python  
-✔ NLP Based Resume Ranking  
-✔ BERT / spaCy  
-✔ AI-Powered Shortlisting  
-
----
-
-## 📊 Loan Approval Prediction System
-✔ Machine Learning Model  
-✔ FastAPI / Spring Boot  
-✔ MongoDB  
-✔ Prediction APIs  
-
----
-
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Astik2004&show_icons=true&theme=tokyonight"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=Astik2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astik2004&layout=compact&theme=tokyonight"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astik2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
 
 </p>
 
@@ -115,136 +196,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astik2004&la
 <p align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Astik2004&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=Astik2004&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# ☁️ DevOps & Cloud
-
-<p align="center">
-
-<img
-src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,bash"/>
-
-</p>
-
----
-
-# 🤖 AI / ML / Gen AI
-
-<p align="center">
-
-<img
-src="https://skillicons.dev/icons?i=python,llm,genai,langchain,langgraph"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-```yaml
-Backend:
-  - Spring Boot Advanced
-  - Microservices
-  - Kafka
-
-Frontend:
-  - React.js
-  - Tailwind CSS
-
-DevOps:
-  - Docker
-  - Kubernetes
-  - Jenkins
-  - AWS
-
-AI:
-  - LangChain
-  - RAG
-  - LLM Applications
-```
-
----
-
-# 💻 Coding Profiles
-
-<p align="left">
-
-<a href="https://leetcode.com/">
-<img src="https://skillicons.dev/icons?i=leetcode" />
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://skillicons.dev/icons?i=hackerrank" />
-</a>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/Astik2004/Astik2004/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 👀 Visitor Count
-
-<p align="center">
-
-<img
-src="https://visitor-badge.laobi.icu/badge?page_id=Astik2004.Astik2004" />
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-```java
-while(!success){
-    keepLearning();
-    keepBuilding();
-    stayConsistent();
-}
-```
-
----
-
-# 🧠 Quote I Follow
-
-<p align="center">
-
-✨ “First, solve the problem. Then, write the code.” ✨
-
-</p>
-
----
-
-# 🎵 Spotify Playing
-
-<p align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)
+src="https://streak-stats.demolab.com?user=Astik2004&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </p>
 
@@ -252,20 +204,100 @@ while(!success){
 
 # 📊 Contribution Graph
 
-[![Astik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Astik2004&theme=tokyo-night)](https://github.com/Astik2004)
-
----
-
-# 💡 Profile Views
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Astik2004&label=Profile%20Views&color=0e75b6&style=flat" />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Astik2004&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 
 </p>
 
 ---
 
-<h3 align="center">
-🔥 Thanks for visiting my profile 🔥
-</h3>
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=Astik2004&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+
+<img
+src="https://leetcard.jacoblin.cool/astikyadav4?theme=dark&font=Nunito&ext=contest" />
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Astik2004">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:astikyadav4@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://linkedin.com/in/astikyadav">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/astikyadav4/">
+<img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://github.com/Astik2004">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+# ⚡ Philosophy
+
+```java
+while(!success){
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=Astik2004&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</p>
+
+---
+
+<p align="center">
+
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364" />
+
+</p>
