@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Astik+Yadav;Java+Backend+Engineer;Spring+Boot+%7C+Microservices+Developer;Banking+%7C+CBS+%7C+LOS+Developer;Building+Production+Grade+Applications;Gen+AI+Engineer+in+Progress" alt="Typing SVG" />
-</h1>
+<p align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hey+👋,+I'm+Astik+Yadav;Java+Backend+Engineer;Spring+Boot+%7C+Microservices;Banking+%7C+CBS+%7C+LOS+Developer;Building+Production+Grade+Applications;Gen+AI+Engineer+in+Progress" />
+
+</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:1a2332,100:0d1a2e&text=Astik%20Yadav&fontSize=45&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Engineer%20•%20Enterprise%20Banking%20Developer%20•%20Gen%20AI%20Explorer&descSize=18&descAlignY=60&descColor=8b949e" />
@@ -278,26 +280,29 @@ src="https://leetcard.jacoblin.cool/astikyadav4?theme=dark&font=JetBrains+Mono&e
 <p align="center">
 
 <a href="https://github.com/Astik2004">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-&nbsp;
 
 <a href="https://linkedin.com/in/astikyadav">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
-
-&nbsp;
 
 <a href="mailto:astikyadav4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
-
-&nbsp;
 
 <a href="https://leetcode.com/u/astikyadav4/">
-<img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
+
+</p>
+
+---
+
+<p align="center">
+
+💬 Open to collaborations in  
+Java Backend • Microservices • Cloud • Generative AI
 
 </p>
 
